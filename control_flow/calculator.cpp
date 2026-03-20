@@ -1,11 +1,14 @@
 #include <iostream>
 #include <limits>
+#include <cstdlib>
 
 using namespace std;
 
 int main() {
       char operation;
       double x, y, result;
+
+      system("clear");
 
       cout << "Enter the operator (+, -, /, *): " << "\n";
       cin >> operation;
