@@ -22,9 +22,8 @@ int main(void) {
                   continue;
             }
 
-            if (guess > target) { cout << "Too high!" << endl; }
-            else if (guess < target) { cout << "Too low!" << endl; }
-            else { cout << "You got it!" << endl; }
+            // personally, I don't think this is readable to me...
+            cout << (guess > target ? "Too high!" : (guess < target ? "Too low!" : "You go it!")) << endl;
       }
 
       return 0;
