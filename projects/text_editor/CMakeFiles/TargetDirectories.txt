@@ -1,3 +1,0 @@
-/home/sandy/Documents/programming/C++/projects/text_editor/CMakeFiles/todo_app.dir
-/home/sandy/Documents/programming/C++/projects/text_editor/CMakeFiles/edit_cache.dir
-/home/sandy/Documents/programming/C++/projects/text_editor/CMakeFiles/rebuild_cache.dir
